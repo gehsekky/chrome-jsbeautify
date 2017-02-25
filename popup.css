@@ -1,0 +1,34 @@
+html {
+  width: 400px;
+  height: 400px;
+  margin: 0px;
+  padding: 0px;
+  background-color: red;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+#text-container {
+  width: 100%;
+  height: 92%;
+}
+
+#main-text {
+  width: 99%;
+  height: 99%;
+}
+
+#button-container {
+  width: 100%;
+  height: 8%;
+}
+
+#main-button {
+  height: 100%;
+  width: 100%;
+}
